@@ -1,0 +1,37 @@
+Chris herbestsfdvkdfdrtflMy resume
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Christopher Herbst's Resume</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    <center><h1>Christopher D. Herbst</h1>
+    <p>10 Loeffler Lane
+    <br>Medfield, MA, 02052
+    <br>cdherbst@icloud.com
+    <br>508-613-6110
+    </P>
+    </center>
+        </body>
+    <hr>
+        <body>
+        <p>
+        <h2>Education</h2>
+        <strong>Medfield High School, Medfield, MA</strong><p align="right">2017 - Present</p>
+      <ul>
+      <li>Taking 3 Honors Courses as Freshman
+      <li>Current GPA: 3.67
+      </ul>
+      <h2>Experience</h2>
+      <strong>Childcare/Petcare</strong>
+       <ul>
+      <li>Babysat for multiple families, kids ranging in ages of 3 to 10
+      <li>Taken care of pets while families were away on vacation
+      </ul>
+      <br>
+      <br>
+      <br>
+
+    </body>
+</html>
