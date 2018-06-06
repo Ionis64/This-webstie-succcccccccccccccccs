@@ -1,14 +1,3 @@
-<!DOCTYPE HTML>
-<html>
-    <center><h1>Time Travel</h1>
-    
-    <h3>and the Question of it's Existence</h3>
-    <div><hr/></div>
-    <style>
-    body, html {
-    height: 100%;
-}
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,7 +5,7 @@
 <style>
 .parallax {
     /* The image used */
-    background-image: url("img_parallax.jpg");
+    background-image: ("https://www.kasandbox.org/programming-images/creatures/Hopper-Jumping.png" alt="A jumping Beaver");
 
     /* Set a specific height */
     min-height: 500px; 
@@ -43,9 +32,3 @@ Tip: Try to remove the background-attachment property to remove the scrolling ef
 
 </body>
 </html>
-
-
-    
-    </center>
-</html>
-
