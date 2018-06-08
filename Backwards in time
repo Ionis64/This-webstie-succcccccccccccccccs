@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<style>
+    table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: "Arial", Arial, sans-serif;
+}
+h1,h4, p {
+    font-family: "Arial", Arial, sans-serif;
+}
+</style>
+
+<center>
+    <h1>Going Back in Time</h1>
+    </center>
+    <h4>What lies in the context of "Going Back in Time"?</h4>
+    <p>
+    For the time being, it is assumed that "traveling back in time" means that a person travels instantly back to a certain point in time behind the time in which they are supposed to exist. No time has passed for this person, so they do not show differences in age. In their personal timeline, 10:00 pm in the city of Rome is the same for them as 10:00 pm in medfield writing this report, timewise.
+    <br>
+    <br>The table below represents the possible actions the individual will be able to make while backwards in time, what contradics those actions, and why.
+    </p>
+<style>
+    table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+</style>
+<table>
+<thead>
+    <th>Possibilities</th>
+    <th>Contradictions</th>
+    <th>Why</th>
+</thead>
+<tbody>
+    <td>The individual decides to see what his parents were like when they were younger. He affects them in one way or another, and this made it so it was impossible for them ever to be born. (example: individual pushes his mother infront of a car)</td>
+    <td>How did the individual kill his mother if he was not born yet?</td>
+    <td>The individual could easily stop their birth if they tried, and if they fail they can just try again, they can time travel. So when they do stop their birth, what happens to them? 
+Their existence is impossible, but yet they existed to carry out the act. This is a contradiction.
+    </td>
+</tbody>
+</table>
+
+
+
+</html>
